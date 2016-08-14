@@ -1,5 +1,5 @@
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)
-    
+
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
 **[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
@@ -26,3 +26,21 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+
+## Develop
+**Note** F it's recommended to use [`rbenv`](https://github.com/rbenv/rbenv/) when developing with Ruby on Mac OS X.
+
+Using ruby -v `2.3.1`
+
+Install `bundler`
+
+```ruby
+gem install bundler
+```
+
+If using `rbenv` do `rbenv rehash` so that the `bundle` command can be executed.
+
+Then do `bundle install`
+
+To run the site locally do `bundle exec jekyll serve` and view in a web browser on `locahost:4000`
+*TO DO: reset base url to localhost:4000 when running locally*
