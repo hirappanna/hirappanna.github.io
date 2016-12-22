@@ -1,11 +1,11 @@
 # Site
-title:              "Hira's awesome website"
-bio:                'Hira is so cool.'
-description:        "Hira is a bad ass yogi and chef."
+title:              "Hira Panna Lesea"
+bio:                'Ayurvedic Chef and Hatha Yoga Instructor'
+description:        "The website of Hira Panna Lesea, Ayurvedic chef and hatha yoga instructor."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/hira-eating-cropped.jpg'
+background:         'assets/img/home-page-radishes-bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hirappanna.github.io
