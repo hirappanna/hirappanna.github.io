@@ -42,5 +42,18 @@ If using `rbenv` do `rbenv rehash` so that the `bundle` command can be executed.
 
 Then do `bundle install`
 
-To run the site locally do `bundle exec jekyll serve` and view in a web browser on `locahost:4000`
-*TO DO: reset base url to localhost:4000 when running locally*
+To run the site locally do `bundle exec jekyll serve --config _config.yml,_config_dev.yml` and view in a web browser on `locahost:4000`
+
+## Photo Gallery
+To add images to the image gallery:  
+
+1. Add the processed image to the `/assets/img/` directory
+2. In `photo_gallery/index.md`'s front matter, add the image path and title under `images`
+
+For example:
+
+```yml
+images:
+- image_path: /assets/img/egg-plate-eggplant.jpg
+  title: Egg Plate
+```
