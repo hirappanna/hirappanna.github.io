@@ -5,14 +5,14 @@ date: {}
 comments: false
 published: true
 images:
+- image_path: /assets/img/hira-granola-romantic.jpg
+  title: Hira with granola
 - image_path: /assets/img/egg-plate-eggplant.jpg
   title: Egg Plate
 - image_path: /assets/img/hands-and-tofu.jpg
   title: Tofu and Hands
 - image_path: /assets/img/sauce-triptych.jpg
   title: Three Sauces
-- image_path: /assets/img/hira-granola-romantic.jpg
-  title: Hira with granola
 - image_path: /assets/img/frittata.JPG
   title: Frittata
 - image_path: /assets/img/collards-macadamia.JPG
