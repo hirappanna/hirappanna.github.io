@@ -7,7 +7,7 @@ tags:
 comments: false
 published: true
 ---
-All meals are generally vegetarian and can be made dairy free, gluten free or vegan and I can accommodate any dietary requests or restrictions. I source produce from farms in the vicinity of retreat centers and utilize only organic vegetables and fruit when available, organic dairy and free range eggs. Raw, sprouted and fermented foods are available, as well as pasture raised meat and/or sustainably caught fish, all upon request. Service is family style and high touch. Meal presentation includes useful information about nutrition from an Ayurvedic perspective as well as Traditional Chinese Medicine.
+All meals are created based on seasonally available fresh produce. I enjoy establishing relationships with organic farmers in the vicinity of retreat centers and source fresh vegetables, fruit, organic dairy and free range eggs from them. Meals can easily be made to accommodate any dietary requests or restrictions including dairy free, gluten free or vegan. Raw, sprouted and fermented foods are available, as well as pasture raised meat and/or sustainably caught fish, all upon request. Service is family style and high touch. Meal presentation includes useful information about nutrition from an Ayurvedic perspective as well as Traditional Chinese Medicine.
 
 ## *Winter*  
 BREAKFAST  
