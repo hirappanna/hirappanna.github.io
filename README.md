@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)
 
+=======
+# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+
+## `Sorry guys but there will be no update until I buy a new laptop.`
+
+>>>>>>> TaylanTatli/master
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
 **[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
@@ -45,6 +52,8 @@ Then do `bundle install`
 To run the site locally do `bundle exec jekyll serve --config _config.yml,_config_dev.yml` and view in a web browser on `locahost:4000`
 
 ## Photo Gallery
+Right now images are scaled to be 725px wide.
+
 To add images to the image gallery:  
 
 1. Add the processed image to the `/assets/img/` directory
