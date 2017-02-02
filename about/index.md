@@ -16,4 +16,4 @@ She’s had the pleasure of working on retreats for the past four years at [Seve
 
 In addition to her studies in culinary arts, Hira holds a E-RYT 500 hour certificate under the auspices of Leigh Evans and Summer Quashie’s unprecedented program- [Yoga Sukhavati](http://leighevansyoga.com) and is a Buddhist practitioner. Through this unique lense she brings her service, attention and intentions to the table.
 
-You may email Hira at: hira [dot] lesea [at] gmail [dot] com
+You may email Hira at: <a href="mailto:hira.lesea@gmail.com">Hira [dot] Lesea [at] gmail [dot] com</a>
