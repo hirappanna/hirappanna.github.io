@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: menu
 title: Sample Menus
 date: {}
 tags:
@@ -9,13 +9,15 @@ published: true
 ---
 All meals are created based on seasonally available fresh produce. I enjoy establishing relationships with organic farmers in the vicinity of retreat centers and source fresh vegetables, fruit, organic dairy and free range eggs from them. Meals can easily be made to accommodate any dietary requests or restrictions including dairy free, gluten free or vegan. Raw, sprouted and fermented foods are available, as well as pasture raised meat and/or sustainably caught fish, all upon request. Service is family style and high touch. Meal presentation includes useful information about nutrition from an Ayurvedic perspective as well as Traditional Chinese Medicine.
 
+<img src="/assets/img/soup-and-salad.JPG" alt="soup and salad" class="img-medium-width" />
+
 ## *Winter*  
 BREAKFAST  
 Steel cut oats with flax seeds  
 Soaked date and ginger compote  
 Coconut flour banana bread  
 
-LUNCH 
+LUNCH  
 Pureed celery root soup with sage butter  
 Mixed green salad with radish and spiced almonds  
 White bean puree with lemon and garlic  
@@ -25,9 +27,12 @@ DINNER
 Red lentil daal with cumin and fresh ginger  
 Basmati rice  
 Roasted yams, celeriac, parsnips and rutabaga with saffron ghee  
-Collard greens with toasted macadamia nuts spiced with turmeric and cayenne 
+Collard greens with toasted macadamia nuts spiced with turmeric and cayenne
 
-DESSERT- Apple crumble with salted honey whip cream  
+DESSERT  
+Apple crumble with salted honey whip cream  
+
+<img src="/assets/img/spring-salad.jpg" alt="Salad" class="img-medium-width" />
 
 ## *Spring*  
 BREAKFAST  
@@ -48,7 +53,10 @@ Tzatziki yogurt sauce with dill
 Persian rice with saffron  
 Mixed green salad with cumin lime dressing  
 
-DESSERT- Gluten free olive oil almond cake with cardamom and rosewater  
+DESSERT  
+Gluten free olive oil almond cake with cardamom and rosewater
+
+<img src="/assets/img/lilac-cake-summer.jpg" alt="Almond Olive Oil Cake" class="img-medium-width" />
 
 ## *Summer*  
 BREAKFAST  
@@ -67,9 +75,12 @@ Homemade pickled carrots and jalapenos
 DINNER  
 Tomato pie with thyme, garlic and a whole wheat olive oil crust  
 Lentil soup with carrots and leeks  
-Mixed green salad with radishes and pea sprouts 
+Mixed green salad with radishes and pea sprouts
 
-DESSERT- Peach pie with basil and butter crust  
+DESSERT  
+Peach pie with basil and butter crust  
+
+<img src="/assets/img/baked-apples.JPG" alt="Baked Apples" class="img-medium-width" />
 
 ## *Autumn*  
 BREAKFAST  
@@ -89,4 +100,5 @@ DINNER
 Mushroom, mixed vegetable and herb pot pie with whole grain crust  
 Sauteed greens with caramelized onions, toasted cashews and fresh goat cheese  
 
-DESSERT- Upside down persimmon cake with almond cream topping
+DESSERT  
+Upside down persimmon cake with almond cream topping

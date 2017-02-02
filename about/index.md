@@ -8,6 +8,7 @@ comments: false
 published: true
 ---
 
+<img src="/assets/img/hira-cutting-lilacs.jpg" alt="Hira and Lilacs" class="img-medium-width" />
 
 Hira Lesea is an avid food lover who, when cooking, embodies the Italian idea of 'Il Cuoco' or 'The Cook.’ In Italy, meals cooked in the home, opposed to in a restaurant, are so superlative and unpretentious that 'Il Cuoco' is held in higher regard than that of 'Il Chef'. This idea resonated with Hira when she studied at the [University of Gastronomic Sciences](http://www.unisg.it/en/) in Italy, also known as the slow food school. There she learned about subtleties of flavor and pleasure as well as history, culture and science of food. Hira’s training has also been influenced from an internship at Alice Waters' Chez Panisse under the guidance of renowned chef David Tanis, who taught her about simplicity and quality. Hira’s knowledge of food and cooking has been further expanded by studies of the ancient Indian medicine Ayurveda, in both Kerala, India and New York City, which guides her preparations to be both vibrant and ridiculously delicious.
 
