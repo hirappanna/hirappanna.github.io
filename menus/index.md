@@ -32,7 +32,7 @@ Collard greens with toasted macadamia nuts spiced with turmeric and cayenne
 DESSERT  
 Apple crumble with salted honey whip cream  
 
-<img src="/assets/img/spring-salad.jpg" alt="Salad" class="img-medium-width" />
+<img src="/assets/img/spring-salad.JPG" alt="Salad" class="img-medium-width" />
 
 ## *Spring*  
 BREAKFAST  
