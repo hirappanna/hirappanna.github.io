@@ -1,0 +1,40 @@
+form.contact-form {
+  width: 450px;
+  margin: 0 auto;
+  padding: 25px;
+
+  input,
+  textarea {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(229,230,233,0.5) rgba(223,224,228,0.5) #d0d1d5;
+    border-radius: 4px;
+  }
+
+  input {
+    display: block;
+
+    &.email {
+      width: 100%;
+      margin-bottom: 25px;
+      padding: 10px;
+    }
+
+    &.btn-info {
+      margin: 0;
+    }
+  }
+
+  textarea {
+    height: 12em;
+    width: 100%;
+    margin-bottom: 25px;
+    padding: 10px;
+  }
+
+  @media only screen and (max-width: 48em) {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 25px;
+  }
+}
